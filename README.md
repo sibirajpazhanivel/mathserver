@@ -94,7 +94,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ![OUTPUT](./out.png)
 
 ### Home Page:
-![HOME PAGE](./home.png)
+![HOME PAGE](./Home.png)
 
 ## Result:
 The program for implementing server side processing is completed successfully
